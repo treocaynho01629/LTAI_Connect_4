@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/AI/AI_Dumb.java=UTF-8
+encoding//src/AI/AI_Main.java=UTF-8
+encoding//src/Controller/Connect_4_Controller.java=UTF-8
+encoding//src/GUI/EndDialog.java=UTF-8
+encoding//src/GUI/GlassPanePanel.java=UTF-8
+encoding//src/GUI/PauseAction.java=UTF-8
+encoding//src/GUI/PauseDialog.java=UTF-8
+encoding//src/GUI/SettingDialog.java=UTF-8
+encoding//src/Model/Connect_4_Model.java=UTF-8
+encoding//src/Other/Board.java=UTF-8
+encoding//src/Other/Tile.java=UTF-8
+encoding//src/Test/Test.java=UTF-8
+encoding//src/View_Observer/Connect_4_View.java=UTF-8
+encoding//src/View_Observer/Connect_4_View_Test.java=UTF-8
+encoding//src/View_Observer/Connect_4_View_Test_2.java=UTF-8
+encoding/<project>=UTF-8
