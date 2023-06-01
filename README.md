@@ -1,5 +1,5 @@
 # LTAI_Connect_4
-Game Connect 4 có AI sử dụng thuật toán MiniMax và Prun Alpha-Beta
+A Java Connect 4 Game using Minimax and Alpha-Beta Pruning for Artificial Intelligence
 
 - Run Connect_4_App.java or ./App/Connect_4.jar
 
